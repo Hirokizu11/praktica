@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\\u0438\u043F11\u0441\u043E\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2A5444-6CEA-4BE8-B20F-1BD904878D73}|\u0438\u043F11\u0441\u043E\\\u0438\u043F11\u0441\u043E.csproj|c:\\users\\admin\\source\\repos\\\u0438\u043F11\u0441\u043E\\\u0438\u043F11\u0441\u043E\\program 4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2A5444-6CEA-4BE8-B20F-1BD904878D73}|\u0438\u043F11\u0441\u043E\\\u0438\u043F11\u0441\u043E.csproj|solutionrelative:\u0438\u043F11\u0441\u043E\\program 4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2A5444-6CEA-4BE8-B20F-1BD904878D73}|\u0438\u043F11\u0441\u043E\\\u0438\u043F11\u0441\u043E.csproj|c:\\users\\admin\\source\\repos\\\u0438\u043F11\u0441\u043E\\\u0438\u043F11\u0441\u043E\\program 5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2A5444-6CEA-4BE8-B20F-1BD904878D73}|\u0438\u043F11\u0441\u043E\\\u0438\u043F11\u0441\u043E.csproj|solutionrelative:\u0438\u043F11\u0441\u043E\\program 5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2A5444-6CEA-4BE8-B20F-1BD904878D73}|\u0438\u043F11\u0441\u043E\\\u0438\u043F11\u0441\u043E.csproj|c:\\users\\admin\\source\\repos\\\u0438\u043F11\u0441\u043E\\\u0438\u043F11\u0441\u043E\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2A5444-6CEA-4BE8-B20F-1BD904878D73}|\u0438\u043F11\u0441\u043E\\\u0438\u043F11\u0441\u043E.csproj|solutionrelative:\u0438\u043F11\u0441\u043E\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2A5444-6CEA-4BE8-B20F-1BD904878D73}|\u0438\u043F11\u0441\u043E\\\u0438\u043F11\u0441\u043E.csproj|C:\\Users\\Admin\\source\\repos\\\u0438\u043F11\u0441\u043E\\\u0438\u043F11\u0441\u043E\\program 2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2A5444-6CEA-4BE8-B20F-1BD904878D73}|\u0438\u043F11\u0441\u043E\\\u0438\u043F11\u0441\u043E.csproj|solutionrelative:\u0438\u043F11\u0441\u043E\\program 2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2A5444-6CEA-4BE8-B20F-1BD904878D73}|\u0438\u043F11\u0441\u043E\\\u0438\u043F11\u0441\u043E.csproj|C:\\Users\\Admin\\source\\repos\\\u0438\u043F11\u0441\u043E\\\u0438\u043F11\u0441\u043E\\program 3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2A5444-6CEA-4BE8-B20F-1BD904878D73}|\u0438\u043F11\u0441\u043E\\\u0438\u043F11\u0441\u043E.csproj|solutionrelative:\u0438\u043F11\u0441\u043E\\program 3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program 5.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\\u0438\u043F11\u0441\u043E\\\u0438\u043F11\u0441\u043E\\Program 5.cs",
+              "RelativeDocumentMoniker": "\u0438\u043F11\u0441\u043E\\Program 5.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\\u0438\u043F11\u0441\u043E\\\u0438\u043F11\u0441\u043E\\Program 5.cs",
+              "RelativeToolTip": "\u0438\u043F11\u0441\u043E\\Program 5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T09:57:57.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program 4.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\\u0438\u043F11\u0441\u043E\\\u0438\u043F11\u0441\u043E\\Program 4.cs",
+              "RelativeDocumentMoniker": "\u0438\u043F11\u0441\u043E\\Program 4.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\\u0438\u043F11\u0441\u043E\\\u0438\u043F11\u0441\u043E\\Program 4.cs",
+              "RelativeToolTip": "\u0438\u043F11\u0441\u043E\\Program 4.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADMAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T08:00:34.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program 3.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\\u0438\u043F11\u0441\u043E\\\u0438\u043F11\u0441\u043E\\Program 3.cs",
+              "RelativeDocumentMoniker": "\u0438\u043F11\u0441\u043E\\Program 3.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\\u0438\u043F11\u0441\u043E\\\u0438\u043F11\u0441\u043E\\Program 3.cs",
+              "RelativeToolTip": "\u0438\u043F11\u0441\u043E\\Program 3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:19:59.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program 2.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\\u0438\u043F11\u0441\u043E\\\u0438\u043F11\u0441\u043E\\Program 2.cs",
+              "RelativeDocumentMoniker": "\u0438\u043F11\u0441\u043E\\Program 2.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\\u0438\u043F11\u0441\u043E\\\u0438\u043F11\u0441\u043E\\Program 2.cs",
+              "RelativeToolTip": "\u0438\u043F11\u0441\u043E\\Program 2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:18:15.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\\u0438\u043F11\u0441\u043E\\\u0438\u043F11\u0441\u043E\\Program.cs",
+              "RelativeDocumentMoniker": "\u0438\u043F11\u0441\u043E\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\\u0438\u043F11\u0441\u043E\\\u0438\u043F11\u0441\u043E\\Program.cs",
+              "RelativeToolTip": "\u0438\u043F11\u0441\u043E\\Program.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAwwHgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T05:12:16.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
