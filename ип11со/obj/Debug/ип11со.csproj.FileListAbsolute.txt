@@ -1,7 +1,0 @@
-C:\Users\Admin\source\repos\ип11со\ип11со\bin\Debug\ип11со.exe.config
-C:\Users\Admin\source\repos\ип11со\ип11со\bin\Debug\ип11со.exe
-C:\Users\Admin\source\repos\ип11со\ип11со\bin\Debug\ип11со.pdb
-C:\Users\Admin\source\repos\ип11со\ип11со\obj\Debug\ип11со.csproj.AssemblyReference.cache
-C:\Users\Admin\source\repos\ип11со\ип11со\obj\Debug\ип11со.csproj.CoreCompileInputs.cache
-C:\Users\Admin\source\repos\ип11со\ип11со\obj\Debug\ип11со.exe
-C:\Users\Admin\source\repos\ип11со\ип11со\obj\Debug\ип11со.pdb
