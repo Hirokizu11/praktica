@@ -1,0 +1,7 @@
+C:\Users\Max\source\repos\practic 15\practic 15\bin\Debug\practic 15.exe.config
+C:\Users\Max\source\repos\practic 15\practic 15\bin\Debug\practic 15.exe
+C:\Users\Max\source\repos\practic 15\practic 15\bin\Debug\practic 15.pdb
+C:\Users\Max\source\repos\practic 15\practic 15\obj\Debug\practic 15.csproj.AssemblyReference.cache
+C:\Users\Max\source\repos\practic 15\practic 15\obj\Debug\practic 15.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\practic 15\practic 15\obj\Debug\practic 15.exe
+C:\Users\Max\source\repos\practic 15\practic 15\obj\Debug\practic 15.pdb
