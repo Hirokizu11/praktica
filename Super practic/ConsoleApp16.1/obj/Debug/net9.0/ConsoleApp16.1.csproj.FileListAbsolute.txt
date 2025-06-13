@@ -1,0 +1,14 @@
+C:\Users\Max\source\repos\ConsoleApp16.1\ConsoleApp16.1\bin\Debug\net9.0\ConsoleApp16.1.exe
+C:\Users\Max\source\repos\ConsoleApp16.1\ConsoleApp16.1\bin\Debug\net9.0\ConsoleApp16.1.deps.json
+C:\Users\Max\source\repos\ConsoleApp16.1\ConsoleApp16.1\bin\Debug\net9.0\ConsoleApp16.1.runtimeconfig.json
+C:\Users\Max\source\repos\ConsoleApp16.1\ConsoleApp16.1\bin\Debug\net9.0\ConsoleApp16.1.dll
+C:\Users\Max\source\repos\ConsoleApp16.1\ConsoleApp16.1\bin\Debug\net9.0\ConsoleApp16.1.pdb
+C:\Users\Max\source\repos\ConsoleApp16.1\ConsoleApp16.1\obj\Debug\net9.0\ConsoleApp16.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\source\repos\ConsoleApp16.1\ConsoleApp16.1\obj\Debug\net9.0\ConsoleApp16.1.AssemblyInfoInputs.cache
+C:\Users\Max\source\repos\ConsoleApp16.1\ConsoleApp16.1\obj\Debug\net9.0\ConsoleApp16.1.AssemblyInfo.cs
+C:\Users\Max\source\repos\ConsoleApp16.1\ConsoleApp16.1\obj\Debug\net9.0\ConsoleApp16.1.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\ConsoleApp16.1\ConsoleApp16.1\obj\Debug\net9.0\ConsoleApp16.1.dll
+C:\Users\Max\source\repos\ConsoleApp16.1\ConsoleApp16.1\obj\Debug\net9.0\refint\ConsoleApp16.1.dll
+C:\Users\Max\source\repos\ConsoleApp16.1\ConsoleApp16.1\obj\Debug\net9.0\ConsoleApp16.1.pdb
+C:\Users\Max\source\repos\ConsoleApp16.1\ConsoleApp16.1\obj\Debug\net9.0\ConsoleApp16.1.genruntimeconfig.cache
+C:\Users\Max\source\repos\ConsoleApp16.1\ConsoleApp16.1\obj\Debug\net9.0\ref\ConsoleApp16.1.dll
